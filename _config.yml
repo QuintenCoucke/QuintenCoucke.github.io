@@ -7,7 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Quinten Coucke"
+title2                    : "Start page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,11 +84,11 @@ author:
   name             : "Quinten Coucke"
   avatar           : "profile.jpg"
   bio              : "PhD Researcher at the Molecular Imaging & Photonics group at KULeuven"
-  location         : "Kessel-Lo"
+  location         : "KU Leuven, Belgium"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.be/citations?user=E3blGE8AAAAJ&hl=nl&oi=ao"
-  email            :
+  email            : quinten.coucke@kuleuven.be
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
