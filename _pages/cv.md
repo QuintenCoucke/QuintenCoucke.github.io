@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biochemistry and Biotechnology, Katholic University Leuven devidion Kortrijk (KULAK), 2012-2016
+* M.S. in Biochemistry, KU Leuven, 2016-2018 (Master thesis: Studying multimerization of Integrase during HIV infection using a FLIM-based FRET phasor analysis)
+* Ph.D in Biochemistry, KU Leuven, 2018-2023 (expected June 2023))
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Assistant (R&D)
+  * Nelson Labs NV (A Sotera Health Company)
+  * Duties included: Development of automated gas chromatography protocols
+  * Supervisor: Frank De Smedt  (Director of Lab Operations)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2018: Research Assistant
+  * KU Leuven
+  * Duties included: Optimizing a homebuilt confocal time resolved microscope
+  * Supervisor: Prof. J. Hofkens
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teamwork
+  * A PhD learns a researcher to optimize experimental work and interlaboratory collaborations with fellow researchers. A good transparent environment with clear communication is a key skill to success.
+* Microscopy
+  * Förster Resonance Energy Transfer (FRET) applications
+  * Fluorescence Lifetime Imaging Microscopy (FLIM) using Phasor Analysis
+  * Troubleshooting and alignment of custom microscopes (experience with thorlabs setup equipment)
+* Sample preparation involving fixations, FCS samples to check setup alignment (confocal volume), cell culture and transfections.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
