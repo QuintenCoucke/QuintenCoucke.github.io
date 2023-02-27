@@ -1,17 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: Advanced Fluorescence
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+type: "Master Course @ KU Leuven"
+permalink:
+venue: "KU Leuven, Department of Chemistry"
+date: 2018-01-01
+location: "Leuven, Belgium"
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+# H1
+Advanced Fluorescence
 ======
+"Course on the in-depth application of fluorescence spectroscopy and imaging. The course covers a broad range of imaging techniques from basics to advanced: Confocal vs widefield imaging STORM, PALM, TIRF, FLIM, STED, ... . Additionally students are introduced to optics, calculating fluorescence quantum yields and determining FRET efficiencies. As a master topic this course keeps a focus on research applied cases."
 
 Heading 2
 ======

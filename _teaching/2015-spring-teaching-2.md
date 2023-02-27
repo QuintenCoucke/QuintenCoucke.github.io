@@ -1,10 +1,11 @@
 ---
-title: "Teaching experience in the lab 2"
+title: "Practical course in Organic chemistry"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Practical course for bachelor students Bioengineering"
+permalink:
+venue: "KU Leuven, Department of Chemistry"
+date: 2018-03-01
+duration: "4 years"
 location: "City, Country"
 ---
 
