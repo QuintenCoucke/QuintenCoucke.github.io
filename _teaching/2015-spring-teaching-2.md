@@ -5,17 +5,8 @@ type: "Practical course for bachelor students Bioengineering"
 permalink:
 venue: "KU Leuven, Department of Chemistry"
 date: 2018-03-01
-duration: "4 years"
+
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+During my PhD I was responsible to teach groups of 30-35 students basics in organic chemistry. This sharpened my mind to create clear and precise presentations that facilitate the learning experience of the students.
