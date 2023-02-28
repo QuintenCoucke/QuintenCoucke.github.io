@@ -1,7 +1,7 @@
 ---
 title: "Sub-millisecond conformational dynamics of the A2A adenosine receptor revealed by single-molecule FRET"
 collection: publications
-permalink: /publication/IvanPaper.md
+permalink: /publication/IvanPaper
 excerpt: 'Co-author'
 date: 2020-01-01
 venue: 'bioRxiv'
