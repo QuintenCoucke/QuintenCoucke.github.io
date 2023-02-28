@@ -56,19 +56,31 @@ Workshops
 * NanoMacro Microscopy Workshop 5-7 sept 2018, Hasselt (attended & gave workshop)
 * Organizer and presenter of the ‘Feel the Force summer school’ 2021. This was a 3 day intensive course to force measuring with biosensors and TFM. I was organizer, gave a plenary lecture on phasor-FLIM and in addition provided small group hands-on classes at the microscope. This was supported by the Arenberg Doctoral School (ADS)
 
-Conference Presentations
+Conference presentations
+======
+* Pacifichem 2021 conference (online-only conference due to COVID-19 regulations)
+https://pacifichem.org/
+“Phasor for FLIM-FRET analysis of intracellular vinculin tension sensors”
+* Plenary session on FRET analysis for biosensors at the 2021 ‘Feel the Force summer school’ at KU Leuven
+(https://www.kuleuven.be/english/summer-schools/feeltheforce/home )
+“Analysis of FRET Data using Intensity and FLIM methods”
+* Open presentation for the chemistry department
+"Phasor analysis for FLIM-FRET biosensor data:a case study of HIV-Integrase oligomerization and vinculin tension sensors"
+
+Conference poster presentations
 ======
 * Dutch Biophysics 2018 Veldhoven, The Netherlands
 * Satellite Workshop of the DGfB biannual meeting "Advanced Fluorescence Spectroscopy and Imaging" 2018 Düsseldorf, Germany
 * 25th PicoQuant ‘Single Molecule, Spectroscopy and Super-resolution Microscopy in the Life Sciences’ meeting 3-6 sept 2019 Berlin, Germany
 * Let there Be …Light – Frans De Schryver Symposium – Oktober 2019 Leuven
 * EACR tumor microenvironment 2020 - March 2020, Lisbon, Portugal
-* Open departemental meeting within Chemsitry department
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Advanced Fluorescence, a course by Prof. J. Hofkens (KU Leuven)
+
+Course on the in-depth application of fluorescence spectroscopy and imaging. The course covers a broad range of imaging techniques from basics to advanced: Confocal vs widefield imaging STORM, PALM, TIRF, FLIM, STED, ... . Additionally students are introduced to optics, calculating fluorescence quantum yields and determining FRET efficiencies. As a master topic this course keeps a focus on research applied cases.
 
 ======
 * Currently open for job opportunities in the Ghent region.
