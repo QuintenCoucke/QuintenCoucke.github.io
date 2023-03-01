@@ -77,6 +77,16 @@ Conference poster presentations
 * Let there Be …Light – Frans De Schryver Symposium – Oktober 2019 Leuven
 * EACR tumor microenvironment 2020 - March 2020, Lisbon, Portugal
 
+Software packages
+======
+* Illustrator (good)
+* Microscoft Office (very good)
+* Matlab (plotting, scripts and (image) data analysis)
+* Python (self-though basics)
+* ImageJ
+* OneNote (reports of meetings, logbook, data sharing hub, project pages)
+* Teams/Zoom/Skype
+* Audacity, Leica LasX, PicoQuant Sypmhotime64, GitHub
 
 Teaching
 ======
