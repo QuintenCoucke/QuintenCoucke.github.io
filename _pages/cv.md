@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-Quinten Coucke
+
+
 ======
 * Born in Knokke-Heist, 15th December 1994
 * Currently living in Zulte (9870)
