@@ -1,6 +1,6 @@
 ---
 permalink: /about2/
-title: "Quinten Coucke"
+title: "Quinten Coucke 2"
 excerpt: "About me 2"
 author_profile: true
 redirect_from:

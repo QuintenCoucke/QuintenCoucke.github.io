@@ -26,9 +26,9 @@ Work experience
 * Summer 2018: Research Assistant (R&D)
   * Nelson Labs NV (A Sotera Health Company)
   * Duties included: Development of automated gas chromatography protocols
-  * Supervisor: Frank De Smedt  (Director of Lab Operations)
+  * Supervisor: Prof. F. De Smedt  (Director of Lab Operations)
 
-* Summer 2018: Research Assistant
+* Fall 2018: Research Assistant
   * KU Leuven
   * Duties included: Optimizing a homebuilt confocal time resolved microscope
   * Supervisor: Prof. J. Hofkens

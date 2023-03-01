@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Quinten Coucke"
   avatar           : "profile.png"
-  bio              : "PhD Researcher at the Molecular Imaging & Photonics group at KULeuven"
+  bio              : "PhD Researcher at the Molecular Imaging & Photonics group at KU Leuven"
   location         : "KU Leuven, Belgium"
   employer         :
   pubmed           :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/quintencoucke/"
   orcid            : "https://orcid.org/0000-0002-2493-2668"
   pinterest        :
   soundcloud       :
