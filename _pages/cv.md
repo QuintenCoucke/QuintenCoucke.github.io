@@ -6,20 +6,18 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-
-<br/><br/>
+Download my CV in .pdf formate here: [CV2023](/files/CV2023.pdf)
 <br/><br/>
 
 * Born in Knokke-Heist, 15th December 1994
 * Currently living in Zulte (9870)
-* Curious and versatile researcher with a mind for technology and the future.
+* Curious and versatile researcher with a mind for technology and the future
 
 
 Education
 ======
-* B.S. in Biochemistry and Biotechnology, Katholic University Leuven devidion Kortrijk (KULAK), 2012-2016
+* B.S. in Biochemistry and Biotechnology, KU Leuven division Kortrijk (KULAK), 2012-2016
 * M.S. in Biochemistry, KU Leuven, 2016-2018 (Master thesis: Studying multimerization of Integrase during HIV infection using a FLIM-based FRET phasor analysis)
 * Ph.D in Biochemistry, KU Leuven, 2018-2023 (expected June 2023))
 
@@ -40,12 +38,12 @@ Skills
 * Teamwork
   * A PhD learned me to optimize experimental work and interlaboratory collaborations with fellow researchers. I found a transparent environment with clear communication key and will always work with the team in mind.
 * Problem Solving and microscopy protocol validation
-  * Having 5 years of experience building and adapting custom built confocal time-resolved microscopes I learned valuable and transferable skills on developing clear protocols and validating performance of such systems.
+  * Having 5 years of experience building and adapting custom built confocal time-resolved microscopes I learned valuable and transferable skills on developing clear protocols and validating performance of such systems
 * Microscopy
   * Förster Resonance Energy Transfer (FRET) applications
   * Fluorescence Lifetime Imaging Microscopy (FLIM) using Phasor Analysis
   * Troubleshooting and alignment of custom microscopes (experience with Thorlabs setup equipment)
-* Sample preparation involving fixations, FCS samples to check setup alignment (confocal volume), cell culture and transfections.
+* Sample preparation involving fixations, FCS samples to check setup alignment (confocal volume), cell culture and transfections
 
 Publications
 ======
@@ -74,7 +72,7 @@ Conference poster presentations
 * Dutch Biophysics 2018 Veldhoven, The Netherlands
 * Satellite Workshop of the DGfB biannual meeting "Advanced Fluorescence Spectroscopy and Imaging" 2018 Düsseldorf, Germany
 * 25th PicoQuant ‘Single Molecule, Spectroscopy and Super-resolution Microscopy in the Life Sciences’ meeting 3-6 sept 2019 Berlin, Germany
-* Let there Be …Light – Frans De Schryver Symposium – Oktober 2019 Leuven
+* Let there Be …Light – Frans De Schryver Symposium – October 2019 Leuven
 * EACR tumor microenvironment 2020 - March 2020, Lisbon, Portugal
 
 Software packages
