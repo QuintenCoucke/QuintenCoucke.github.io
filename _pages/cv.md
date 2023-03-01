@@ -12,7 +12,7 @@ Quinten Coucke
 ======
 * Born in Knokke-Heist, 15th December 1994
 * Currently living in Zulte (9870)
-* Ph.D in Biochemistry, KU Leuven, 2018-2023 (expected June 2023))
+* Curious and versatile researcher with a mind for technology and the future.
 
 
 Education
