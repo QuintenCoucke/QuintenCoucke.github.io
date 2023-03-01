@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-About me
+
+
+
+!(/images/1582189745118.png)
+
 
 I'm Quinten Coucke, a motivated biochemist with experience in advanced fluorescence microscopy techniques such as FLIM imaging. During my academic career I was developing and using a custom-built confocal time-resolved microscope to experiment with phasor analysis for fluorescent lifetime analysis of biological (FRET) samples.
 I'm always focused on innovation and improvements. This trait goes hand in hand with my problem solving mindset and will to work together in a team to reach challenging goals.
