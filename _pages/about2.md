@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about2/
 title: "Quinten Coucke"
 excerpt: "About me 2"
 author_profile: true
