@@ -88,6 +88,13 @@ Software packages
 * Teams/Zoom/Skype
 * Audacity, Leica LasX, PicoQuant Sypmhotime64, GitHub
 
+Languages
+======
+* German (basic)
+* French (basic)
+* English (very good)
+* Dutch (native)
+
 Teaching
 ======
 * Advanced Fluorescence, a course by Prof. J. Hofkens (KU Leuven)
