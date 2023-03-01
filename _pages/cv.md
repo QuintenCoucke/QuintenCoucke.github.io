@@ -79,8 +79,9 @@ Conference poster presentations
 
 Software packages
 ======
-* Illustrator (good)
-* Microscoft Office (very good)
+* Illustrator
+* Adobe Acrobat
+* Microsoft Office applications
 * Matlab (plotting, scripts and (image) data analysis)
 * Python (self-though basics)
 * ImageJ
