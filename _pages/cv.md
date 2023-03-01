@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-
+<br/><br/>
+<br/><br/>
 ======
 * Born in Knokke-Heist, 15th December 1994
 * Currently living in Zulte (9870)
