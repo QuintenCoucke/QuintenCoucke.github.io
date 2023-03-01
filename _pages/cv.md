@@ -11,7 +11,7 @@ redirect_from:
 
 <br/><br/>
 <br/><br/>
-======
+
 * Born in Knokke-Heist, 15th December 1994
 * Currently living in Zulte (9870)
 * Curious and versatile researcher with a mind for technology and the future.
