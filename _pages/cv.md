@@ -18,14 +18,19 @@ Download my CV in .pdf formate here: [CV2023](/files/CV2023.pdf)
 Education
 ======
 * B.S. in Biochemistry and Biotechnology, KU Leuven division Kortrijk (KULAK), 2012-2016
-* M.S. in Biochemistry, KU Leuven, 2016-2018 (Master thesis: Studying multimerization of Integrase during HIV infection using a FLIM-based FRET phasor analysis)
-* Ph.D in Biochemistry, KU Leuven, 2018-2023 (expected June 2023))
+* M.S. in Biochemistry, KU Leuven, 2016-2018 (Master thesis: "Studying multimerization of Integrase during HIV infection using a FLIM-based FRET phasor analysis")
+* Ph.D in Biochemistry, KU Leuven, 2018-2023 (Title: "Application of phasor analysis for FRET biosensors", expected June 2023)
 
 Work experience
 ======
-* Summer 2018: Research Assistant (R&D)
+
+* February to June 2018: Intern (R&D)
   * Nelson Labs NV (A Sotera Health Company)
   * Duties included: Development of automated gas chromatography protocols
+  * Supervisor: Prof. F. De Smedt  (Director of Lab Operations)
+* Summer 2018: Research Assistant (R&D)
+  * Nelson Labs NV (A Sotera Health Company)
+  * Duties included: Investigating leachables of medical devices using gas chromatography
   * Supervisor: Prof. F. De Smedt  (Director of Lab Operations)
 
 * Fall 2018: Research Assistant
@@ -36,8 +41,8 @@ Work experience
 Skills
 ======
 * Teamwork
-  * A PhD learned me to optimize experimental work and interlaboratory collaborations with fellow researchers. I found a transparent environment with clear communication key and will always work with the team in mind.
-* Problem Solving and microscopy protocol validation
+  * During my PhD I learned to optimize experimental work and interlaboratory collaborations with fellow researchers. I found a transparent environment with clear communication key and will always work with the team in mind.
+* Problem solving and microscopy protocol validation
   * Having 5 years of experience building and adapting custom built confocal time-resolved microscopes I learned valuable and transferable skills on developing clear protocols and validating performance of such systems
 * Microscopy
   * Förster Resonance Energy Transfer (FRET) applications
@@ -54,7 +59,7 @@ Publications
 Workshops
 ======
 * NanoMacro Microscopy Workshop 5-7 sept 2018, Hasselt (attended & gave workshop)
-* Organizer and presenter of the ‘Feel the Force summer school’ 2021. This was a 3 day intensive course to force measuring with biosensors and TFM. I was organizer, gave a plenary lecture on phasor-FLIM and in addition provided small group hands-on classes at the microscope. This was supported by the Arenberg Doctoral School (ADS)
+* Organizer and presenter of the ‘Feel the Force summer school’ 2021. This was a 3 day intensive course to force measuring with (FRET) biosensors and TFM. I was organizer, gave a plenary lecture on phasor-FLIM and in addition provided small group hands-on classes at the microscope. This was supported by the Arenberg Doctoral School (ADS) of KU Leuven
 
 Conference presentations
 ======
@@ -69,7 +74,7 @@ https://pacifichem.org/
 
 Conference poster presentations
 ======
-* Dutch Biophysics 2018 Veldhoven, The Netherlands
+* Dutch Biophysics 2018 Veldhoven, Netherlands
 * Satellite Workshop of the DGfB biannual meeting "Advanced Fluorescence Spectroscopy and Imaging" 2018 Düsseldorf, Germany
 * 25th PicoQuant ‘Single Molecule, Spectroscopy and Super-resolution Microscopy in the Life Sciences’ meeting 3-6 sept 2019 Berlin, Germany
 * Let there Be …Light – Frans De Schryver Symposium – October 2019 Leuven
@@ -89,16 +94,16 @@ Software packages
 
 Languages
 ======
-* German (basic)
+* German (Understanding)
 * French (basic)
 * English (very good)
-* Dutch (native)
+* Dutch (mother tongue)
 
 Teaching
 ======
 * Advanced Fluorescence, a course by Prof. J. Hofkens (KU Leuven)
 
-Course on the in-depth application of fluorescence spectroscopy and imaging. The course covers a broad range of imaging techniques from basics to advanced: Confocal vs widefield imaging STORM, PALM, TIRF, FLIM, STED, ... . Additionally students are introduced to optics, calculating fluorescence quantum yields and determining FRET efficiencies. As a master topic this course keeps a focus on research applied cases.
+Course on the in-depth application of fluorescence spectroscopy and imaging. The course covers a broad range of imaging techniques from basics to advanced: Confocal imaging,  widefield imaging, STORM, PALM, TIRF, FLIM, STED, ... . Additionally students are introduced to optics, calculating fluorescence quantum yields and determining FRET efficiencies. Since this is a course in the master for biochemistry students it keeps a focus on research applied cases.
 
 ======
 * Currently open for job opportunities in the Ghent region.
