@@ -5,7 +5,7 @@ type: "Master Course @ KU Leuven"
 permalink:
 venue: "KU Leuven, Department of Chemistry"
 date: 2018-01-01
-location: "Leuven, Belgium"
+location: "Leuven, BE"
 
 ---
 Advanced Fluorescence, a course by Prof. J. Hofkens
