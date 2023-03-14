@@ -94,7 +94,6 @@ Software packages
 
 Languages
 ======
-* German (Understanding)
 * French (basic)
 * English (very good)
 * Dutch (mother tongue)
