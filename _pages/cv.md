@@ -19,13 +19,11 @@ Education
 ======
 * B.S. in Biochemistry and Biotechnology, KU Leuven division Kortrijk (KULAK), 2012-2016
 * M.S. in Biochemistry, KU Leuven, 2016-2018 (Master thesis: "Studying multimerization of Integrase during HIV infection using a FLIM-based FRET phasor analysis")
-      <br/>
-      Supervisor: Prof. Dr. J. Hendrix
-      <br/>
-      Co-supervisor: Prof. Dr. J. Hofkens
+  * Supervisor: Prof. Dr. J. Hendrix
+  * Co-supervisor: Prof. Dr. J. Hofkens
 * Ph.D in Biochemistry, KU Leuven, 2018-2023 (Title: "The application of phasor analysis for FLIM-FRET biosensors", expected June 2023)
-      Supervisor: Prof. Dr. J. Hofkens
-      Co-supervisor: Prof. Dr. S. Rocha
+  * Supervisor: Prof. Dr. J. Hofkens
+  * Co-supervisor: Prof. Dr. S. Rocha
 
 Work experience
 ======
