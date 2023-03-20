@@ -100,7 +100,7 @@ Languages
 ======
 * French (basic)
 * English (very good)
-* Dutch (mother tongue)
+* Dutch (first language)
 
 Teaching
 ======
