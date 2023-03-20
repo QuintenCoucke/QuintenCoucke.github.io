@@ -19,7 +19,11 @@ Education
 ======
 * B.S. in Biochemistry and Biotechnology, KU Leuven division Kortrijk (KULAK), 2012-2016
 * M.S. in Biochemistry, KU Leuven, 2016-2018 (Master thesis: "Studying multimerization of Integrase during HIV infection using a FLIM-based FRET phasor analysis")
-* Ph.D in Biochemistry, KU Leuven, 2018-2023 (Title: "Application of phasor analysis for FRET biosensors", expected June 2023)
+      Supervisor: Prof. Dr. J. Hendrix
+      Co-supervisor: Prof. Dr. J. Hofkens
+* Ph.D in Biochemistry, KU Leuven, 2018-2023 (Title: "The application of phasor analysis for FLIM-FRET biosensors", expected June 2023)
+      Supervisor: Prof. Dr. J. Hofkens
+      Co-supervisor: Prof. Dr. S. Rocha
 
 Work experience
 ======
@@ -103,6 +107,40 @@ Teaching
 * Advanced Fluorescence, a course by Prof. J. Hofkens (KU Leuven)
 
 Course on the in-depth application of fluorescence spectroscopy and imaging. The course covers a broad range of imaging techniques from basics to advanced: Confocal imaging,  widefield imaging, STORM, PALM, TIRF, FLIM, STED, ... . Additionally students are introduced to optics, calculating fluorescence quantum yields and determining FRET efficiencies. Since this is a course in the master for biochemistry students it keeps a focus on research applied cases.
+
+
+References
+======
+Prof. Dr. Johan Hofkens
+*	johan.hofkens@kuleuven.be
+*	https://www.hofkenslab.com/
+*	Head of Division Photochemistry and Spectroscopy
+*	Head of Subdivision Single Molecules
+
+Prof. Dr. Susana Rocha
+*	susana.rocha@kuleuven.be
+*	Rocha Lab
+    https://susanarocha.github.io/
+
+Prof. Dr. Jelle Hendrix
+*	jelle.hendrix@uhasselt.be
+*	Dynamic Bioimaging Lab UHasselt
+    https://www.uhasselt.be/en/onderzoeksgroepen-en/dynamic-bioimaging-lab
+*	Manager of the core facility Advanced Optical Microscopy Centre
+    https://www.uhasselt.be/AOMC
+
+Rik Nuyts
+*	rik.nuyts@kuleuven.be
+*	Expert microscopy operator at Molecular Imaging and Photonics, Nanocenter Leuven)
+
+
+Extracurricular activities/hobbies:
+=====
+*	Long distance running, hiking and cycling
+*	Photography
+*	“Kom op tegen kanker 1000km” cycling for cancer research (2018/2019)
+*	Fixing broken equipment and handiwork
+
 
 ======
 * Currently open for job opportunities in the Ghent region.
