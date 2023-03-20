@@ -113,21 +113,21 @@ References
 ======
 Prof. Dr. Johan Hofkens
 *	johan.hofkens@kuleuven.be
-*	https://www.hofkenslab.com/
+*	[Hofkens Lab](https://www.hofkenslab.com/)
 *	Head of Division Photochemistry and Spectroscopy
 *	Head of Subdivision Single Molecules
 
 Prof. Dr. Susana Rocha
 *	susana.rocha@kuleuven.be
 *	Rocha Lab
-    https://susanarocha.github.io/
+    [Rocha Lab](https://susanarocha.github.io/)
 
 Prof. Dr. Jelle Hendrix
 *	jelle.hendrix@uhasselt.be
 *	Dynamic Bioimaging Lab UHasselt
-    https://www.uhasselt.be/en/onderzoeksgroepen-en/dynamic-bioimaging-lab
+    [DBI Lab](https://www.uhasselt.be/en/onderzoeksgroepen-en/dynamic-bioimaging-lab)
 *	Manager of the core facility Advanced Optical Microscopy Centre
-    https://www.uhasselt.be/AOMC
+    [AOMC](https://www.uhasselt.be/AOMC)
 
 Rik Nuyts
 *	rik.nuyts@kuleuven.be
